@@ -1,6 +1,6 @@
 ## Custom Google Map
 
-Simple TypeScript displaying markers on a Google map.
+Simple TypeScript app displaying markers on a Google map.
 
 ###### Main Classes
 
